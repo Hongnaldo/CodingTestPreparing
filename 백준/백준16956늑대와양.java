@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 public class 백준16956늑대와양 {
 
@@ -7,3 +8,14 @@ public class 백준16956늑대와양 {
 	}
 
 }
+=======
+
+public class 백준16956늑대와양 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
+>>>>>>> cd8bf4bced39b628e5df6c5ef81d1dff0902ae83
